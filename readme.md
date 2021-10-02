@@ -87,3 +87,7 @@ Feel free to create any pull requests for the project. For proposing any new cha
 
     1. Alan Whitmore - alan.whitmore@ftxinfotech.com
     2. Vicky Patel - ftx.vicky@gmail.com
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
