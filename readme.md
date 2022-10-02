@@ -54,11 +54,6 @@ The application uses [GrumPHP](https://github.com/phpro/grumphp) for the git pre
 **User:** admin@admin.com\
 **Password:** 1234
 
-**User:** executive@executive.com\
-**Password:** 1234
-
-**User:** user@user.com\
-**Password:** 1234
 
 ### Useful Commands
 ---
